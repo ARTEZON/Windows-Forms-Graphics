@@ -1,0 +1,22 @@
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.AssemblyReference.cache
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.Properties.Resources.resources
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.GenerateResource.cache
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.pdb
+C:\Users\ARTEZON\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.MainWindow.resources
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.AssemblyReference.cache
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.SuggestedBindingRedirects.cache
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.MainWindow.resources
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.Properties.Resources.resources
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.GenerateResource.cache
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+D:\Основное\Универ\3 семестр\C#\Lab_14\Lab_14\obj\Debug\Lab_14.pdb

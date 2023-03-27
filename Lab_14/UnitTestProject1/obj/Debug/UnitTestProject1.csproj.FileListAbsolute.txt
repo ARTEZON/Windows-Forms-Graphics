@@ -1,0 +1,48 @@
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Lab_14.exe
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Lab_14.pdb
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Lab_14.exe.config
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\ARTEZON\Desktop\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Lab_14.exe
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Lab_14.pdb
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Lab_14.exe.config
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Основное\Универ\3 семестр\C#\Lab_14\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

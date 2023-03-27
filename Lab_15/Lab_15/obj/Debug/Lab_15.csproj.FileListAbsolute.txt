@@ -1,0 +1,11 @@
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.csproj.AssemblyReference.cache
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.Properties.Resources.resources
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.csproj.GenerateResource.cache
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.csproj.CoreCompileInputs.cache
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\bin\Debug\Lab_15.exe.config
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\bin\Debug\Lab_15.exe
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\bin\Debug\Lab_15.pdb
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.exe
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.pdb
+C:\Users\ARTEZON\Desktop\Lab_15\Lab_15\obj\Debug\Lab_15.Form1.resources
